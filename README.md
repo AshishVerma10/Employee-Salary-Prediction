@@ -27,7 +27,6 @@ Welcome to the **Employee Salary Prediction App**, a dynamic machine learning we
 ├── salary_model.pkl                  # Pretrained Gradient Boosting model pipeline
 ├── Employee_Salary_Prediction.ipynb  # Notebook with model training journey
 ├── requirements.txt                  # Dependencies to get you started
-├── salary_model.pkl                  # Trained Model on Various ML Algorithms
 ```
 
 ## 🖥️ How to Run Locally
